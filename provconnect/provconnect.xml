@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <name>proVconnect</name>
+    <key>provconnect</key>
+    <state>alpha</state>
+    <logo>https://raw.githubusercontent.com/Wanpulse/glpi_provconnect/main/logo.png</logo>
+    <description>
+        <short>
+            <fr><![CDATA[proVconnect.<br />Ce plugin vous permet de lier le logiciel proVconnect à GLPI.]]></fr>
+            <en><![CDATA[proVconnect.<br />This plugin enables you to link proVconnect software to GLPI.]]></en>
+        </short>
+        <long>
+            <fr><![CDATA[proVconnect.<br />Ce plugin vous permet de lier le logiciel proVconnect à GLPI.]]></fr>
+            <en><![CDATA[proVconnect.<br />This plugin enables you to link proVconnect software to GLPI.]]></en>
+        </long>
+    </description>
+    <homepage>https://github.com/Wanpulse/glpi_provconnect</homepage>
+    <download>https://github.com/Wanpulse/glpi_provconnect/releases</download>
+    <issues>https://github.com/Wanpulse/glpi_provconnect/issues</issues>
+    <readme>https://github.com/Wanpulse/glpi_provconnect/main/README.md</readme>
+    <authors>
+        <author>Wanpulse SAS</author>
+    </authors>
+    <versions>
+        <version>
+            <num>0.0.1</num>
+            <compatibility>~10.0</compatibility>
+            <download_url>https://github.com/Wanpulse/glpi_provconnect/releases/download/0.0.1/glpi-provconnect-0.0.1.zip</download_url>
+        </version>
+    </versions>
+    <langs>
+        <lang>en_GB</lang>
+        <lang>fr_FR</lang>
+    </langs>
+    <license><![CDATA[MIT]]></license>
+    <tags>
+        <fr>
+            <tag>Inventaire</tag>
+            <tag>Gestion</tag>
+        </fr>
+        <en>
+            <tag>Inventory</tag>
+            <tag>Management</tag>
+        </en>
+    </tags>
+</root>
