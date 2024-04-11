@@ -3,7 +3,7 @@
     <name>proVconnect</name>
     <key>provconnect</key>
     <state>alpha</state>
-    <logo>https://raw.githubusercontent.com/Wanpulse/glpi_provconnect/main/logo.png</logo>
+    <logo>https://raw.githubusercontent.com/Wanpulse/glpi_provconnect/master/provconnect/logo.png</logo>
     <description>
         <short>
             <fr><![CDATA[proVconnect.<br />Ce plugin vous permet de lier le logiciel proVconnect à GLPI.]]></fr>
@@ -17,7 +17,7 @@
     <homepage>https://github.com/Wanpulse/glpi_provconnect</homepage>
     <download>https://github.com/Wanpulse/glpi_provconnect/releases</download>
     <issues>https://github.com/Wanpulse/glpi_provconnect/issues</issues>
-    <readme>https://github.com/Wanpulse/glpi_provconnect/main/README.md</readme>
+    <!-- <readme>https://github.com/Wanpulse/glpi_provconnect/master/README.md</readme> -->
     <authors>
         <author>Wanpulse SAS</author>
     </authors>
